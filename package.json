@@ -1,0 +1,14 @@
+
+{
+  "name": "scarlett-polycheira-lavalink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Spaxh",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.1"
+  },
+  "scripts": {
+   "start": "bash start.sh"
+  }
+}
